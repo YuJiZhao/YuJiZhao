@@ -14,7 +14,5 @@
 - 📫 How to reach me: **eyesyeager@gmail.com**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuJiZhao&layout=compact)](https://github.com/YuJiZhao/github-readme-stats)
-  
 ![eyesYeager's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuJiZhao&show_icons=true&theme=tokyonight)
 
