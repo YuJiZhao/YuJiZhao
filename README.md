@@ -6,12 +6,12 @@
 
 # I'm eyesYeager
 
-- 🔭 I’m currently working on **yunnanbaiyao**
-- 🌱 I’m currently learning **Spring, Hadoop and Golang**
-- 👯 Currently working in **HeFei, China**
+- 🔭 I’m currently working on **tencent**
+- 🌱 I’m currently learning **Hadoop and Golang**
+- 👯 Currently working in **ShenZhen, China**
 - 🤔 I love **Freedom and Comic**
 - 💬 Ask me about Java, JavaScript and my projects
-- 📫 How to reach me: **eyesyeager@gmail.com**
+- 📫 How to reach me: **eyesyeager@163.com**
 
 # About My Github
 ![eyesYeager's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuJiZhao&show_icons=true&theme=tokyonight)
