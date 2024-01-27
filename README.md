@@ -6,10 +6,10 @@
 
 # I'm eyesYeager
 
-- 🔭 I’m currently working on **tencent**
-- 🌱 I’m currently learning **Hadoop and Golang**
+- 🔭 I’m currently working on **Tencent**
+- 🌱 I’m currently learning **Golang, Flutter**
 - 👯 Currently working in **ShenZhen, China**
-- 🤔 I love **Freedom and Comic**
+- 🤔 I love **Life and Comic**
 - 💬 Ask me about Java, JavaScript and my projects
 - 📫 How to reach me: **eyesyeager@163.com**
 
