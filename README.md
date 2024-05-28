@@ -12,7 +12,3 @@
 - 🤔 I love **Life and Comic**
 - 💬 Ask me about Java, JavaScript and my projects
 - 📫 How to reach me: **eyesyeager@163.com**
-
-# About My Github
-![eyesYeager's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuJiZhao&show_icons=true&theme=tokyonight)
-
