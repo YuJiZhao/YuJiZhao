@@ -12,3 +12,5 @@
 - 🤔 I love **Life and Comic**
 - 💬 Ask me about Java, JavaScript and my projects
 - 📫 How to reach me: **eyesyeager@163.com**
+
+This account has been migrated to: https://github.com/eyesyeager
